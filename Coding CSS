@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">My Website</div>
+      <ul>
+        <li class="menu-item"><a href="#">Home</a></li>
+        <li class="menu-item"><a href="#">About</a></li>
+        <li class="menu-item"><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <article>
+      <h1>Welcome to My Website</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec odio in nulla pharetra mollis at eget diam. Nunc pellentesque elit vel massa pharetra, non malesuada velit elementum.</p>
+      <img src="https://via.placeholder.com/500x300" alt="Placeholder image">
+      <p>Sed eget risus mollis, laoreet leo vitae, consectetur massa. Vivamus convallis sagittis lacus, eu interdum mauris feugiat sed.</p>
+    </article>
+    <article>
+      <h2>About Us</h2>
+      <p>Nullam pellentesque, neque nec auctor bibendum, nulla nisl ultricies nulla, eu imperdiet lectus libero vel metus. Nulla id justo accumsan, faucibus lorem in, efficitur nunc. Nullam mattis nisi dolor, vel facilisis risus egestas at.</p>
+      <p>Proin iaculis vehicula libero, non volutpat ex bibendum ut. Proin lacinia, odio vel volutpat ultrices, nunc est elementum nisl, ac venenatis libero mi ac ipsum.</p>
+    </article>
+  </main>
+  <footer>
+    <p>&copy; 2023 My Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>
